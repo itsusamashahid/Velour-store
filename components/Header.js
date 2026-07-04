@@ -29,7 +29,7 @@ export default function Header({ categories, onOpenCart }) {
             {mobileOpen ? <X size={22} /> : <Menu size={22} />}
           </button>
           <Link href="/" className="font-extrabold text-2xl tracking-tight flex items-center gap-1.5 shrink-0" style={{ color: COLORS.ink }}>
-            <span style={{ color: COLORS.accent }}>Vel</span>our
+            <span style={{ color: COLORS.accent }}>Velour
           </Link>
 
           <div className="hidden md:flex items-center gap-6 ml-2">
