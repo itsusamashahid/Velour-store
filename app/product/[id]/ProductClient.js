@@ -91,7 +91,7 @@ export default function ProductClient({ product, related }) {
             <button className="p-3 rounded-full border shrink-0" style={{ borderColor: COLORS.line }}><Heart size={16} color={COLORS.ink} /></button>
           </div>
 
-          <a href="https://wa.me/923000000000" target="_blank" rel="noopener noreferrer" className="mt-3 w-full flex items-center justify-center gap-2 text-sm font-medium py-3 rounded-full border" style={{ borderColor: COLORS.green, color: COLORS.green }}>
+          <a href="https://wa.me/923016337624" target="_blank" rel="noopener noreferrer" className="mt-3 w-full flex items-center justify-center gap-2 text-sm font-medium py-3 rounded-full border" style={{ borderColor: COLORS.green, color: COLORS.green }}>
             <MessageCircle size={16} /> Ask about this product on WhatsApp
           </a>
 
